@@ -17,7 +17,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ## 🚀 About Me
-
+```python
 class Raghaw:
     def __init__(self):
         self.year = "2nd Year B.Tech Student"
@@ -34,6 +34,7 @@ class Raghaw:
             "🚀 Ship",
             "🔁 Repeat"
         ]
+```
 
 <br>
 

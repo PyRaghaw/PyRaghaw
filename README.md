@@ -1,165 +1,226 @@
-<div align="center">
 
-# 👋 Hey! I'm Raghaw
-
-### Building AI-powered tools that solve real problems
-**Python | Flask | TensorFlow | OpenCV | Databases**
+**What drives me:**
+- 🧠 Building intelligent systems that solve **real problems**
+- 📚 Creating tools that make **education accessible**
+- 🔒 Writing code that respects **user privacy**
+- 🚀 Shipping projects that **actually work**
 
 ---
 
-<a href="mailto:sraghaw911@gmail.com">
-  <img src="https://img.shields.io/badge/Email-sraghaw911%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/raghaw-shukla-a49727326/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+## 🎯 Current Mission
 
-![Profile Views](https://komarev.com/ghpvc/?username=PyRaghaw&style=flat&color=brightgreen)
+> Building bridges between AI technology and everyday challenges—one Python script at a time.
+
+**Right now I'm:**
+- ⚡ Exploring **RAG systems** for intelligent information retrieval
+- 🏗️ Learning **system design** and scalable architectures  
+- 🤖 Experimenting with **LLMs** and prompt engineering
+- 🔬 Diving deeper into **computer vision** applications
+
+---
+
+## 🚀 Projects That Matter
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 ScholarConnect
+#### *Finding scholarships, simplified*
+
+A multilingual AI platform helping Indian students navigate scholarship opportunities with zero guesswork.
+
+**Impact:**
+- 📸 Smart OCR document scanning
+- 🤖 AI-powered eligibility matching
+- 💬 Conversational assistant
+- 🌏 7+ Indian languages
+
+**Built with:** `Python` `Flask` `OpenCV` `PostgreSQL` `RAG`
+
+**[→ View Project](https://github.com/PyRaghaw/Scholar-Connect)**
+
+</td>
+<td width="50%" valign="top">
+
+### 📅 AI Timetable
+#### *Study smarter, not harder*
+
+Intelligent scheduling that adapts to your learning patterns and optimizes study blocks for maximum productivity.
+
+**Features:**
+- 🎯 AI-optimized schedules
+- 📊 Progress tracking
+- ⏰ Smart time allocation
+- 📈 Productivity insights
+
+**Built with:** `Python` `Flask` `Algorithms`
+
+**[→ View Project](https://github.com/PyRaghaw/AI-Timetable)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📧 MailMind Pro
+#### *Email, minus the data selling*
+
+Privacy-first email assistant that helps you manage Gmail without compromising your data.
+
+**What makes it special:**
+- 🔐 Minimal OAuth scopes
+- 🏷️ Smart categorization
+- 📝 Auto-summarization
+- 🔒 Zero data storage
+
+**Built with:** `Python` `Flask` `Gmail API` `OAuth2`
+
+**[→ View Project](https://github.com/PyRaghaw/MailMind)**
+
+</td>
+<td width="50%" valign="top">
+
+### 💡 More Coming Soon...
+
+Currently cooking up:
+- 🧪 ML experiments
+- 🔧 Developer tools
+- 📚 Educational utilities
+
+**Stay tuned!** ⚡
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<details>
+<summary><b>🐍 Backend & Core</b></summary>
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🤖 AI & Machine Learning</b></summary>
+<br>
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🗄️ Databases & Storage</b></summary>
+<br>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🔧 DevOps & Tools</b></summary>
+<br>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+</details>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PyRaghaw&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=PyRaghaw&theme=radical&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyRaghaw&layout=compact&theme=radical&hide_border=true" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=PyRaghaw&theme=radical&hide_border=true&area=true" />
 
 </div>
 
 ---
 
-## 💡 Who am I?
+## 💭 Philosophy
 
-I'm a 2nd-year student who codes because building stuff is addictive. I love taking raw ideas and turning them into working applications—especially anything involving **AI, data processing, and education tech**.
+<div align="center">
 
-Currently obsessed with:
-- 🧠 Making AI accessible & privacy-first
-- 📄 Document intelligence (OCR + smart extraction)
-- 📚 Building tools that actually help students learn
-- 🔐 Privacy-conscious backends
+> *"Code is not just about solving problems—it's about creating possibilities."*
 
----
+> *"Privacy isn't a feature, it's a fundamental right."*
 
-## 🚀 What I've Built
+> *"The best way to predict the future? Build it."*
 
-### 🎓 ScholarConnect
-*"Find scholarships without the guesswork"*
-
-A multilingual platform that helps Indian students discover scholarships. Built with:
-- 📸 Smart document scanning (OCR)
-- 🔍 AI-powered eligibility matching
-- 🗣️ Conversational chatbot
-- 📊 Real scholarship data
-
-**Tech:** Python, Flask, OpenCV, PostgreSQL, RAG  
-👉 [Explore](https://github.com/PyRaghaw/Scholar-Connect)
+</div>
 
 ---
 
-### 📅 AI Timetable
-*"Your study schedule, but intelligent"*
+## 🌱 Beyond Code
 
-Generates optimized study schedules using smart algorithms. Because studying 8 hours blindly isn't effective.
+When I'm not shipping features, you'll find me:
 
-**Tech:** Python, Flask, Algorithms  
-👉 [Check it out](https://github.com/PyRaghaw/AI-Timetable)
-
----
-
-### 📧 MailMind Pro
-*"Email made simple. Privacy kept safe."*
-
-A Gmail assistant that actually respects your data. Categorizes, summarizes, and helps you manage emails—without selling your info.
-
-- 🔒 Minimal permissions
-- 🏷️ Smart categorization
-- 📝 Auto-summarization
-
-**Tech:** Python, Flask, Gmail API, OAuth2  
-👉 [See the code](https://github.com/PyRaghaw/MailMind)
+- 📚 **Learning:** Exploring new frameworks, reading tech blogs, watching tutorials
+- 🤝 **Contributing:** Open-source projects that align with my values
+- 🎓 **Mentoring:** Helping others debug, learn, and grow
+- 🔐 **Advocating:** For privacy-first tech and ethical AI
+- 💡 **Experimenting:** With new ideas, even if they break at first
 
 ---
 
-## 🛠️ My Toolkit
+## 📫 Let's Build Something Together
 
-### The Core
-🐍 Python (main language)
-🌐 Flask (lightweight web apps)
-⚡ FastAPI (modern APIs)
+Got an idea? Need help with a project? Just want to talk tech?
 
-text
+<div align="center">
 
-### AI & ML Magic
-🧠 TensorFlow (neural networks)
-👁️ OpenCV (computer vision)
-📊 Pandas (data wrangling)
-🤖 scikit-learn (ML models)
+**I'm always open to collaborating on:**
+- 🎓 Ed-tech solutions
+- 🤖 AI/ML applications
+- 🔒 Privacy-focused tools
+- 🚀 Open-source projects
 
-text
+**Reach out:**
 
-### Data & Infrastructure
-🗄️ PostgreSQL (serious databases)
-💾 SQLite (simple & fast)
-🔄 Redis (caching & sessions)
-🐳 Docker (containerization)
+📧 [sraghaw911@gmail.com](mailto:sraghaw911@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/raghaw-shukla-a49727326/)  
+🐙 [GitHub](https://github.com/PyRaghaw)
 
-text
-
-### Real-World Tools
-🔐 OAuth2 (secure auth)
-📡 REST APIs (clean interfaces)
-🚀 GitHub Actions (automation)
-
-text
-
----
-
-## 📊 My GitHub
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PyRaghaw&theme=dark&hide_border=true" height="165" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PyRaghaw&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" alt="Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyRaghaw&layout=compact&theme=dark&hide_border=true" height="165" alt="Languages"/>
-</p>
-
----
-
-## 🎯 Currently Working On
-
-- ✨ Improving ScholarConnect (adding more scholarships + better matching)
-- 🔬 Exploring RAG systems (retrieval-augmented generation)
-- 📚 Learning system design & scalability
-- 🤖 Playing with LLMs & prompt engineering
-
----
-
-## 🤔 What I'm Into
-
-Besides coding, I'm passionate about:
-- 📖 Learning new frameworks & tools
-- 🎮 Gaming (keeps me sane)
-- 🎓 Making education accessible
-- 🔒 Privacy & security topics
-
----
-
-## 💬 Let's Talk!
-
-Have an idea? Found a bug? Just wanna chat about tech?
-
-📧 **Email:** sraghaw911@gmail.com  
-💼 **LinkedIn:** [Raghaw Shukla](https://www.linkedin.com/in/raghaw-shukla-a49727326/)  
-🐙 **GitHub:** [@PyRaghaw](https://github.com/PyRaghaw)
-
----
-
-## 🎬 Fun Facts
-
-> *"From classroom to codebase"* — that's the vibe  
-> Code is poetry, bugs are feature requests  
-> Coffee ☕ → Ideas 💡 → Shipping 🚀
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ If something here interests you, drop a star!
+### ⚡ Quick Stats
 
-**Built with passion, Python, and probably too much caffeine.**
+![](https://img.shields.io/github/followers/PyRaghaw?style=social)
+![](https://img.shields.io/github/stars/PyRaghaw?style=social)
+
+**If my work resonates with you, consider dropping a ⭐ on my repos!**
+
+</div>
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+
+<div align="center">
+
+**Made with ❤️, Python, and endless curiosity**
 
 </div>

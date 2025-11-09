@@ -56,7 +56,7 @@
 <tr>
 <td width="50%">
 
-#### 📧 MailMind Pro
+#### 📧 MailMind
 **Privacy-first email assistant** with secure pipelines, smart categorization, minimal scopes, and Gmail API integration.
 
 **Tech:** `Python` `Flask` `Gmail API` `OAuth2` `Privacy`  

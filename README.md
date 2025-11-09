@@ -4,7 +4,7 @@
 
 ### Building Intelligent Systems at the Intersection of AI & Education
 
-[📧 Email](mailto:sraghaw911@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/raghaw-shukla-a49727326/) • [👨‍💻 Portfolio](#)
+[📧](mailto:sraghaw911@gmail.com) • [in](https://www.linkedin.com/in/raghaw-shukla-a49727326/) • [👨‍💻 Portfolio](#)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PyRaghaw&style=flat&color=blue)
 
@@ -50,7 +50,7 @@ Optimizes student schedules with AI-driven study blocks, productivity tracking, 
 
 ---
 
-### 📧 [MailMind Pro](https://github.com/PyRaghaw/MailMind)
+### 📧 [MailMind](https://github.com/PyRaghaw/MailMind)
 **Privacy-First Email Assistant**  
 Secure email management with smart categorization, summarization, and minimal OAuth scopes.
 

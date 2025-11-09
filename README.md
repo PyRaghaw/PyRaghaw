@@ -1,119 +1,125 @@
-<!-- ===== HERO SECTION ===== -->
+<!-- ===== HERO ===== -->
 <div align="center">
-  
-# 👋 Hey, I'm Raghaw Shukla
+  <h1 style="font-size:40px">Raghaw Shukla</h1>
+  <h3>Student developer building intelligent systems at the intersection of AI and education</h3>
+  <p>Python • TensorFlow • Flask • OpenCV • Databases • Docker • Auth</p>
 
-### AI Developer • Student • Ed-Tech Enthusiast
-*Building intelligent systems that bridge AI and education*
-
-<p>
-  <a href="mailto:sraghaw911@gmail.com">
-    <img src="https://img.shields.io/badge/📧_sraghaw911%40gmail.com-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/raghaw-shukla-a49727326/">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=PyRaghaw&style=for-the-badge&color=blue&label=Profile%20Views" alt="Profile views"/>
-</p>
-
+  <!-- Badges -->
+  <p>
+    <a href="mailto:sraghaw911@gmail.com">
+      <img src="https://img.shields.io/badge/Email-sraghaw911%40gmail.com-D14836?logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/raghaw-shukla-a49727326/">
+      <img src="https://img.shields.io/badge/LinkedIn-Raghaw%20Shukla-0A66C2?logo=linkedin&logoColor=white"/>
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=PyRaghaw&style=flat&color=blue" alt="Profile views"/>
+  </p>
 </div>
 
 ---
 
-<!-- ===== ABOUT ME ===== -->
-## 🚀 About Me
+<!-- ===== SUMMARY ===== -->
+### About Me
+- 2nd‑year student crafting privacy‑first apps with robust Python backends and smooth UX.  
+- Specializing in RAG systems, document intelligence (OCR), and inclusive ed‑tech.  
+- Tooling: FastAPI/Django/Flask, TensorFlow, OpenCV, Pandas, scikit‑learn, Postgres/SQLite, Docker, GitHub Actions.
 
-```python
-class AboutRaghaw:
-    def __init__(self):
-        self.role = "AI Developer & CS Student"
-        self.focus = "Practical AI Applications"
-        self.passion = "Making tech accessible through education"
-        
-    def current_work(self):
-        return {
-            "🏗️ Building": "Privacy-first AI applications",
-            "🔬 Researching": "RAG systems & Computer Vision",
-            "🎓 Learning": "Production-ready backend systems",
-            "🎯 Vision": "Democratizing education through AI"
-        }
-    
-    def tech_stack(self):
-        return {
-            "🧠 AI/ML": ["TensorFlow", "OpenCV", "scikit-learn", "Pandas"],
-            "⚡ Backend": ["Flask", "FastAPI", "PostgreSQL", "SQLite"],
-            "🔧 DevOps": ["Docker", "GitHub Actions", "OAuth", "REST APIs"],
-            "🎨 Frontend": ["HTML/CSS", "JavaScript", "Tailwind"]
-        }
+### Focus Areas
+RAG • Computer Vision/OCR • Ed‑Tech • Privacy‑First Design
 
-me = AboutRaghaw()
+---
 
-<!-- ===== FEATURED PROJECTS ===== -->
-💻 Featured Projects
+<!-- ===== FEATURED PROJECTS (CARDS + SHIELDS) ===== -->
+### Featured Projects
 
-<div align="center">
-🎓 ScholarConnect
+<table>
+<tr>
+<td width="50%">
 
-Multilingual scholarship platform with AI-powered document processing
+#### ScholarConnect
+Multilingual scholarship platform with OCR, eligibility scoring, and AI study plans.  
+<p>
+  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-2.x-000000?logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-4.x-5C3EE8?logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tesseract-OCR-6aa84f"/>
+  <img src="https://img.shields.io/badge/RAG-enabled-8E44AD"/>
+</p>
+<a href="https://github.com/PyRaghaw/Scholar-Connect"><b>→ GitHub</b></a>
 
-<p> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/OCR-Tesseract-6aa84f"/> <img src="https://img.shields.io/badge/Multilingual-7_languages-8E44AD"/> </p> <a href="https://github.com/PyRaghaw/Scholar-Connect"><b>🔗 Explore Repository →</b></a>
-⏰ AI Timetable
+</td>
+<td width="50%">
 
-Smart scheduling assistant with optimized study planning
+#### AI Timetable
+Intelligent scheduling assistant with AI‑optimized study blocks and productivity tracking.  
+<p>
+  <img src="https://img.shields.io/badge/Python-Algorithms-3776AB?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-light-000000?logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Productivity-Insights-2ecc71"/>
+</p>
+<a href="https://github.com/PyRaghaw/AI-Timetable"><b>→ GitHub</b></a>
 
-<p> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/AI_Planning-Algorithms-2ecc71"/> <img src="https://img.shields.io/badge/Productivity-Tools-3498db"/> </p> <a href="https://github.com/PyRaghaw/AI-Timetable"><b>🔗 Explore Repository →</b></a>
-📧 MailMind Pro
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-Privacy-first email assistant with intelligent organization
+#### MailMind Pro
+Privacy‑first email assistant with secure pipelines, categorization, and minimal scopes.  
+<p>
+  <img src="https://img.shields.io/badge/Python-Backend-3776AB?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail%20API-OAuth-DB4437?logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Privacy-First-34495e"/>
+</p>
+<a href="https://github.com/PyRaghaw/MailMind"><b>→ GitHub</b></a>
 
-<p> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Gmail_API-DB4437?logo=gmail&logoColor=white"/> <img src="https://img.shields.io/badge/OAuth2-Secure-34495e"/> <img src="https://img.shields.io/badge/Privacy-First-9b59b6"/> </p> <a href="https://github.com/PyRaghaw/MailMind"><b>🔗 Explore Repository →</b></a></div>
-<!-- ===== TECH STACK ===== -->
-🛠️ Tech Stack
+</td>
+<td width="50%">
 
-<div align="center">
-🧠 AI & Machine Learning
+#### More
+Pinned repositories below show additional work: experiments, templates, and utilities.  
+<p>
+  <img src="https://img.shields.io/badge/Experiments-ML-9b59b6"/>
+  <img src="https://img.shields.io/badge/Templates-APIs-2980b9"/>
+</p>
 
-<img src="https://cdn.simpleicons.org/python/3776AB" title="Python" height="40"/> <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" title="TensorFlow" height="40"/> <img src="https://cdn.simpleicons.org/opencv/5C3EE8" title="OpenCV" height="40"/> <img src="https://cdn.simpleicons.org/pandas/150458" title="Pandas" height="40"/> <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" title="scikit-learn" height="40"/>
-⚡ Backend & Databases
+</td>
+</tr>
+</table>
 
-<img src="https://cdn.simpleicons.org/flask/000000" title="Flask" height="40"/> <img src="https://cdn.simpleicons.org/fastapi/009688" title="FastAPI" height="40"/> <img src="https://cdn.simpleicons.org/postgresql/4169E1" title="PostgreSQL" height="40"/> <img src="https://cdn.simpleicons.org/sqlite/003B57" title="SQLite" height="40"/>
-🔧 DevOps & Tools
+---
 
-<img src="https://cdn.simpleicons.org/docker/2496ED" title="Docker" height="40"/> <img src="https://cdn.simpleicons.org/github/181717" title="GitHub" height="40"/> <img src="https://cdn.simpleicons.org/githubactions/2088FF" title="GitHub Actions" height="40"/> <img src="https://cdn.simpleicons.org/oauth/EB5424" title="OAuth" height="40"/></div>
-<!-- ===== FOCUS AREAS ===== -->
-🎯 Focus Areas
+<!-- ===== SKILLS GRID ===== -->
+### Skills
+<p align="center">
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="30"/>
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="30"/>
+  <img src="https://cdn.simpleicons.org/flask/FFFFFF" height="30"/>
+  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="30"/>
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="30"/>
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="30"/>
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30"/>
+  <img src="https://cdn.simpleicons.org/sqlite/003B57" height="30"/>
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30"/>
+  <img src="https://cdn.simpleicons.org/auth0/EB5424" height="30"/>
+</p>
 
-<div align="center">
-🤖 AI Engineering	👁️ Computer Vision	🎓 Ed-Tech	🔒 Privacy-First
-RAG Systems
-ML Applications
-Smart Automation	OCR Processing
-Document AI
-Image Analysis	Learning Tools
-Student Platforms
-Accessibility	Secure Apps
-Minimal Data
-Ethical Design
-</div>
-<!-- ===== GITHUB STATS ===== -->
-📊 GitHub Analytics
+---
 
-<div align="center">
-https://github-readme-streak-stats.herokuapp.com?user=PyRaghaw&theme=transparent&hide_border=true&background=45%252C00000000%252C00000000
-https://github-readme-stats.vercel.app/api?username=PyRaghaw&show_icons=true&theme=transparent&hide_border=true&count_private=true&hide_title=true
-https://github-readme-stats.vercel.app/api/top-langs/?username=PyRaghaw&layout=compact&theme=transparent&hide_border=true&hide=Jupyter%2520Notebook
+<!-- ===== STATS ===== -->
+### GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PyRaghaw&theme=transparent" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PyRaghaw&show_icons=true&theme=transparent&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyRaghaw&layout=compact&theme=transparent&hide=Jupyter%20Notebook" height="160"/>
+</p>
 
-</div>
-<!-- ===== CONTACT ===== -->
-📞 Let's Connect!
+---
 
-<div align="center">
-🚀 Ready to collaborate on innovative projects?
+<!-- ===== CONTACT CTA ===== -->
+### Work With Me
+- Open to collaborations in ed‑tech, RAG systems, and computer vision.  
+- Mail: sraghaw911@gmail.com • LinkedIn: https://www.linkedin.com/in/raghaw-shukla-a49727326/
 
-I'm always open to discussing AI, education technology, and building impactful solutions
-
-<p> <a href="mailto:sraghaw911@gmail.com"> <img src="https://img.shields.io/badge/📧_Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/raghaw-shukla-a49727326/"> <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/PyRaghaw"> <img src="https://img.shields.io/badge/🐙_GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
-💫 Favorite Quote
-
-"From classroom to codebase: Building the future of learning."
-</div>
+### Quote
+> “From classroom to codebase: Building the future of learning.”

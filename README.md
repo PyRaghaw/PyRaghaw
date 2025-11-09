@@ -35,24 +35,7 @@ Specializing in RAG systems, document intelligence (OCR), and accessible ed-tech
 [![Email](https://img.shields.io/badge/Email-sraghaw911%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:sraghaw911@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Raghaw%20Shukla-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghaw-shukla-a49727326/)
 
-### Languages & Tools
-<p align="center">
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="28"/>
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="28"/>
-  <img src="https://cdn.simpleicons.org/flask/FFFFFF" height="28"/>
-  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="28"/>
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="28"/>
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="28"/>
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="28"/>
-  <img src="https://cdn.simpleicons.org/sqlite/003B57" height="28"/>
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="28"/>
-  <img src="https://cdn.simpleicons.org/auth0/EB5424" height="28"/>
-</p>
-
-
-
 ### GitHub Stats
-
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=PyRaghaw&theme=transparent)
 ![Stats](https://github-readme-stats.vercel.app/api?username=PyRaghaw&show_icons=true&theme=transparent&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PyRaghaw&layout=compact&theme=transparent&hide=Jupyter%20Notebook)

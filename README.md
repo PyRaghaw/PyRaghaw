@@ -36,7 +36,19 @@ Specializing in RAG systems, document intelligence (OCR), and accessible ed-tech
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Raghaw%20Shukla-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghaw-shukla-a49727326/)
 
 ### Languages & Tools
-<img src="https://cdn.simpleicons.org/python/3776AB" height="28"/> <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="28"/> <img src="https://cdn.simpleicons.org/flask/FFFFFF" height="28"/> <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="28"/> <img src="https://cdn.simpleicons.org/pandas/150458" height="28"/> <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="28"/> <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="28"/> <img src="https://cdn.simpleicons.org/sqlite/003B57" height="28"/> <img src="https://cdn.simpleicons.org/docker/2496ED" height="28"/> <img src="https://cdn.simpleicons.org/auth0/EB5424" height="28"/>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="28"/>
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="28"/>
+  <img src="https://cdn.simpleicons.org/flask/FFFFFF" height="28"/>
+  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="28"/>
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="28"/>
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="28"/>
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="28"/>
+  <img src="https://cdn.simpleicons.org/sqlite/003B57" height="28"/>
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="28"/>
+  <img src="https://cdn.simpleicons.org/auth0/EB5424" height="28"/>
+</p>
+
 
 
 ### GitHub Stats

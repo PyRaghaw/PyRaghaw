@@ -10,7 +10,7 @@
   <a href="https://github.com/PyRaghaw"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3BDBF7&center=true&vCenter=true&width=600&lines=Building+AI-powered+tools+%F0%9F%9A%80;Making+education+accessible+%F0%9F%93%9A;Privacy-first+development+%F0%9F%94%92;Always+learning%2C+always+building+%E2%9A%A1)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3BDBF7&center=true&vCenter=true&width=600&lines=Building+AI-powered+tools+🚀;Making+education+accessible+📚;Privacy-first+development+🔒;Always+learning,+always+building+⚡)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PyRaghaw&color=blueviolet&style=flat-square)
 
@@ -20,6 +20,7 @@
 
 ## 🌟 About Me
 
+```python
 class Raghaw:
     def __init__(self):
         self.year = "2nd Year Student"
@@ -32,7 +33,7 @@ class Raghaw:
             self.learn()
             self.build()
             self.ship()
-
+```
 
 **What drives me:**
 - 🧠 Building intelligent systems that solve **real problems**
@@ -61,7 +62,7 @@ class Raghaw:
 <td width="50%" valign="top">
 
 ### 🎓 ScholarConnect
-#### *Finding scholarships, simplified*
+*Finding scholarships, simplified*
 
 A multilingual AI platform helping Indian students navigate scholarship opportunities with zero guesswork.
 
@@ -73,13 +74,13 @@ A multilingual AI platform helping Indian students navigate scholarship opportun
 
 **Built with:** `Python` `Flask` `OpenCV` `PostgreSQL` `RAG`
 
-**[→ View Project](https://github.com/PyRaghaw/Scholar-Connect)**
+[→ View Project](https://github.com/PyRaghaw/Scholar-Connect)
 
 </td>
 <td width="50%" valign="top">
 
 ### 📅 AI Timetable
-#### *Study smarter, not harder*
+*Study smarter, not harder*
 
 Intelligent scheduling that adapts to your learning patterns and optimizes study blocks for maximum productivity.
 
@@ -91,7 +92,7 @@ Intelligent scheduling that adapts to your learning patterns and optimizes study
 
 **Built with:** `Python` `Flask` `Algorithms`
 
-**[→ View Project](https://github.com/PyRaghaw/AI-Timetable)**
+[→ View Project](https://github.com/PyRaghaw/AI-Timetable)
 
 </td>
 </tr>
@@ -99,7 +100,7 @@ Intelligent scheduling that adapts to your learning patterns and optimizes study
 <td width="50%" valign="top">
 
 ### 📧 MailMind Pro
-#### *Email, minus the data selling*
+*Email, minus the data selling*
 
 Privacy-first email assistant that helps you manage Gmail without compromising your data.
 
@@ -111,7 +112,7 @@ Privacy-first email assistant that helps you manage Gmail without compromising y
 
 **Built with:** `Python` `Flask` `Gmail API` `OAuth2`
 
-**[→ View Project](https://github.com/PyRaghaw/MailMind)**
+[→ View Project](https://github.com/PyRaghaw/MailMind)
 
 </td>
 <td width="50%" valign="top">

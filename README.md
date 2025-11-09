@@ -1,139 +1,146 @@
 <div align="center">
 
-# 🚀 Raghaw Shukla
+# 👋 Hey! I'm Raghaw
 
-### Building Intelligent Systems at the Intersection of AI & Education
+### Building AI-powered tools that solve real problems
+**Python | Flask | TensorFlow | OpenCV | Databases**
 
-[📧](mailto:sraghaw911@gmail.com) • [in](https://www.linkedin.com/in/raghaw-shukla-a49727326/) • [👨‍💻 Portfolio](#)
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=PyRaghaw&style=flat&color=blue)
+<a href="mailto:sraghaw911@gmail.com">
+  <img src="https://img.shields.io/badge/Email-sraghaw911%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/raghaw-shukla-a49727326/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+![Profile Views](https://komarev.com/ghpvc/?username=PyRaghaw&style=flat&color=brightgreen)
 
 </div>
 
 ---
 
-## 🎯 About
+## 💡 Who am I?
 
-**2nd-year student developer** crafting privacy-first, intelligent applications that bridge the gap between cutting-edge AI and real-world learning needs. I specialize in building production-grade backends, document processing pipelines, and accessible ed-tech platforms.
+I'm a 2nd-year student who codes because building stuff is addictive. I love taking raw ideas and turning them into working applications—especially anything involving **AI, data processing, and education tech**.
 
-### Focus
-🔬 **RAG Systems** | 👁️ **Computer Vision/OCR** | 🎓 **Ed-Tech** | 🔒 **Privacy-First Design** | ⚙️ **Intelligent Automation**
-
----
-
-## 💼 Featured Projects
-
-### 🎓 [ScholarConnect](https://github.com/PyRaghaw/Scholar-Connect)
-**Multilingual Scholarship Platform with AI**  
-Helps Indian students discover and apply for scholarships using OCR, smart matching, and AI-powered study plans.
-
-- 🌍 7+ Indian languages support
-- 📄 Smart document processing (OCR)
-- 🤖 RAG-powered eligibility matching
-- 📊 25+ scholarship database
-- 🧠 AI chatbot for guidance
-
-**Stack:** `Python` `Flask` `OpenCV` `Tesseract` `RAG` `PostgreSQL`
+Currently obsessed with:
+- 🧠 Making AI accessible & privacy-first
+- 📄 Document intelligence (OCR + smart extraction)
+- 📚 Building tools that actually help students learn
+- 🔐 Privacy-conscious backends
 
 ---
 
-### 📅 [AI Timetable](https://github.com/PyRaghaw/AI-Timetable)
-**Intelligent Study Schedule Generator**  
-Optimizes student schedules with AI-driven study blocks, productivity tracking, and smart time allocation.
+## 🚀 What I've Built
 
-- 🎯 AI-optimized study blocks
-- 📊 Productivity analytics
-- ⏰ Smart time management
-- 📈 Progress tracking
+### 🎓 ScholarConnect
+*"Find scholarships without the guesswork"*
 
-**Stack:** `Python` `Flask` `Algorithms` `Data Processing`
+A multilingual platform that helps Indian students discover scholarships. Built with:
+- 📸 Smart document scanning (OCR)
+- 🔍 AI-powered eligibility matching
+- 🗣️ Conversational chatbot
+- 📊 Real scholarship data
+
+**Tech:** Python, Flask, OpenCV, PostgreSQL, RAG  
+👉 [Explore](https://github.com/PyRaghaw/Scholar-Connect)
 
 ---
 
-### 📧 [MailMind](https://github.com/PyRaghaw/MailMind)
-**Privacy-First Email Assistant**  
-Secure email management with smart categorization, summarization, and minimal OAuth scopes.
+### 📅 AI Timetable
+*"Your study schedule, but intelligent"*
 
-- 🔐 Privacy-first architecture
-- 📬 Gmail API integration
+Generates optimized study schedules using smart algorithms. Because studying 8 hours blindly isn't effective.
+
+**Tech:** Python, Flask, Algorithms  
+👉 [Check it out](https://github.com/PyRaghaw/AI-Timetable)
+
+---
+
+### 📧 MailMind Pro
+*"Email made simple. Privacy kept safe."*
+
+A Gmail assistant that actually respects your data. Categorizes, summarizes, and helps you manage emails—without selling your info.
+
+- 🔒 Minimal permissions
 - 🏷️ Smart categorization
-- ✍️ Auto-summarization
-- 🔒 Minimal scopes (user data safe)
+- 📝 Auto-summarization
 
-**Stack:** `Python` `Flask` `Gmail API` `OAuth2` `Security`
-
----
-
-## 🛠️ Tech Stack
-
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-2.x-000000?logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-Modern-009688?logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-REST-092E20?logo=django&logoColor=white)
-
-### AI & ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5C3EE8?logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Data-150458?logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-Arrays-013243?logo=numpy&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-4169E1?logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-Lightweight-003B57?logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-Cache-DC382D?logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-Backend-3ECF8E?logo=supabase&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI/CD-181717?logo=github&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-Reverse%20Proxy-009639?logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-FCC624?logo=linux&logoColor=black)
-
-### APIs & Security
-![OAuth2](https://img.shields.io/badge/OAuth2-Secure-4285F4?logo=openid&logoColor=white)
-![Gmail API](https://img.shields.io/badge/Gmail%20API-Integration-DB4437?logo=gmail&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST-APIs-009688?logo=swagger&logoColor=white)
+**Tech:** Python, Flask, Gmail API, OAuth2  
+👉 [See the code](https://github.com/PyRaghaw/MailMind)
 
 ---
 
-## 📊 GitHub Analytics
+## 🛠️ My Toolkit
+
+### The Core
+🐍 Python (main language)
+🌐 Flask (lightweight web apps)
+⚡ FastAPI (modern APIs)
+
+text
+
+### AI & ML Magic
+🧠 TensorFlow (neural networks)
+👁️ OpenCV (computer vision)
+📊 Pandas (data wrangling)
+🤖 scikit-learn (ML models)
+
+text
+
+### Data & Infrastructure
+🗄️ PostgreSQL (serious databases)
+💾 SQLite (simple & fast)
+🔄 Redis (caching & sessions)
+🐳 Docker (containerization)
+
+text
+
+### Real-World Tools
+🔐 OAuth2 (secure auth)
+📡 REST APIs (clean interfaces)
+🚀 GitHub Actions (automation)
+
+text
+
+---
+
+## 📊 My GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PyRaghaw&theme=transparent&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PyRaghaw&theme=dark&hide_border=true" height="165" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PyRaghaw&show_icons=true&theme=transparent&count_private=true&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyRaghaw&layout=compact&theme=transparent&hide=Jupyter%20Notebook&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PyRaghaw&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyRaghaw&layout=compact&theme=dark&hide_border=true" height="165" alt="Languages"/>
 </p>
 
 ---
 
-## 🎓 What I'm Learning
+## 🎯 Currently Working On
 
-- 🧠 Advanced RAG & vector databases
-- 🤖 LLM fine-tuning & prompt engineering
-- 🏗️ System design & scalable architectures
-- ☸️ Kubernetes & advanced DevOps
-- 🔐 Zero-knowledge proofs & privacy tech
-
----
-
-## 💡 Current Focus
-
-- Shipping privacy-first ed-tech applications
-- Building intelligent document processing pipelines
-- Exploring RAG systems for knowledge retrieval
-- Contributing to open-source ML projects
+- ✨ Improving ScholarConnect (adding more scholarships + better matching)
+- 🔬 Exploring RAG systems (retrieval-augmented generation)
+- 📚 Learning system design & scalability
+- 🤖 Playing with LLMs & prompt engineering
 
 ---
 
-## 🤝 Let's Connect
+## 🤔 What I'm Into
 
-Looking to collaborate on **ed-tech**, **AI systems**, or **privacy-first applications**? Let's talk!
+Besides coding, I'm passionate about:
+- 📖 Learning new frameworks & tools
+- 🎮 Gaming (keeps me sane)
+- 🎓 Making education accessible
+- 🔒 Privacy & security topics
+
+---
+
+## 💬 Let's Talk!
+
+Have an idea? Found a bug? Just wanna chat about tech?
 
 📧 **Email:** sraghaw911@gmail.com  
 💼 **LinkedIn:** [Raghaw Shukla](https://www.linkedin.com/in/raghaw-shukla-a49727326/)  
@@ -141,18 +148,18 @@ Looking to collaborate on **ed-tech**, **AI systems**, or **privacy-first applic
 
 ---
 
-## 💭 Philosophy
+## 🎬 Fun Facts
 
-> *"From classroom to codebase: Building the future of learning."*
-
-> *"Great code is simple, elegant, and serves a purpose beyond itself."*
+> *"From classroom to codebase"* — that's the vibe  
+> Code is poetry, bugs are feature requests  
+> Coffee ☕ → Ideas 💡 → Shipping 🚀
 
 ---
 
 <div align="center">
 
-### ⭐ If my work inspires you, consider starring my repositories!
+### ⭐ If something here interests you, drop a star!
 
-Made with ❤️ by Raghaw Shukla
+**Built with passion, Python, and probably too much caffeine.**
 
 </div>

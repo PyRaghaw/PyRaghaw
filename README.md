@@ -19,8 +19,6 @@
 ---
 
 ## 🌟 About Me
-
-```python
 class Raghaw:
     def __init__(self):
         self.year = "2nd Year Student"
@@ -33,7 +31,7 @@ class Raghaw:
             self.learn()
             self.build()
             self.ship()
-```
+
 
 **What drives me:**
 - 🧠 Building intelligent systems that solve **real problems**

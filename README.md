@@ -19,8 +19,6 @@
 ---
 
 ## 🌟 About Me
-
-```python
 class Raghaw:
     def __init__(self):
         self.year = "2nd Year Student"
@@ -33,7 +31,6 @@ class Raghaw:
             self.learn()
             self.build()
             self.ship()
-
 text
 def code(self):
     while True:

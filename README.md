@@ -19,7 +19,8 @@
 ---
 
 class Raghaw:
-    def __init__(self):
+
+def __init__(self):
         self.year = "2nd Year Student"
         self.location = "India 🇮🇳"
         self.passions = ["AI/ML", "Ed-Tech", "Privacy", "Building"]

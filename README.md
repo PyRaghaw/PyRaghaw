@@ -5,9 +5,9 @@
 ### 💻 Student Developer | 🤖 AI Enthusiast | 🔐 Privacy Advocate
 
 <p>
-  <a href="mailto:sraghaw911@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/raghaw-shukla-a49727326/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/PyRaghaw"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:sraghaw911@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/raghaw-shukla-a49727326/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/PyRaghaw"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3BDBF7&center=true&vCenter=true&width=600&lines=Building+AI-powered+tools+🚀;Making+education+accessible+📚;Privacy-first+development+🔒;Always+learning,+always+building+⚡)
@@ -18,7 +18,6 @@
 
 ---
 
-```
 class Raghaw:
     def __init__(self):
         self.year = "2nd Year Student"
@@ -31,7 +30,7 @@ class Raghaw:
             self.learn()
             self.build()
             self.ship()
-```
+
 
 
 **What drives me:**

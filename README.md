@@ -17,26 +17,18 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ## 🚀 About Me
-```python
-class Raghaw:
-    def __init__(self):
-        self.year = "2nd Year B.Tech Student"
-        self.location = "India 🇮🇳"
-        self.passions = ["AI/ML", "Ed-Tech", "Privacy", "Building"]
-        self.current_focus = "Making AI accessible to everyone"
-        self.motto = "Ship fast, learn faster"
-    
-    def daily_routine(self):
-        return [
-            "☕ Coffee",
-            "💻 Code", 
-            "🐛 Debug",
-            "🚀 Ship",
-            "🔁 Repeat"
-        ]
-```
-
-<br>
+        
+2nd Year B.Tech Student
+India 🇮🇳
+AI/ML, Ed-Tech, Privacy, Building
+Making AI accessible to everyone
+Ship fast, learn faster
+        
+☕ Coffee
+💻 Code 
+🐛 Debug
+🚀 Ship
+🔁 Repeat
 
 ### 💡 What Drives Me
 

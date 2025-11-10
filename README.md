@@ -4,8 +4,6 @@
 
 ### Building the future, one commit at a time
 
-<img align="right" alt="Coding Universe" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHhydjI2cWl5YmE0OXN1MHF6bzFqeGE3aGN5OGhkeHM2MXRzcm00eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
-
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sraghaw911@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghaw-shukla-a49727326/)

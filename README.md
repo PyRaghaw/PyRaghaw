@@ -4,7 +4,7 @@
 
 ### Building the future, one commit at a time
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Student+Developer+%7C+AI+Enthusiast;Privacy+Advocate+%7C+Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=AI+Developer+%7C+Gesture+Control+Expert;Privacy+Advocate+%7C+Innovation+Crafter" alt="Typing SVG" />
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sraghaw911@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghaw-shukla-a49727326/)
@@ -19,20 +19,20 @@
 
 ## 🚀 About Me
         
-2nd Year B.Tech Student | India 🇮🇳
+2nd Year B.Tech Student | AI Developer | India 🇮🇳
 
-Passions: AI/ML, Ed-Tech, Privacy, Building
-Current Focus: Making AI accessible to everyone
-Motto: Ship fast, learn faster
+Passions: AI/ML, Computer Vision, Gesture Control, Privacy Tech
+Current Focus: Revolutionizing human-computer interaction
+Motto: Build what users need, ship what users love
 
-Daily Rhythm: ☕ Coffee → 💻 Code → 🐛 Debug → 🚀 Ship → 🔁 Repeat
+Daily Rhythm: ☕ Coffee → 🖐️ Gesture Recognition → 🐛 Debug → 🚀 Ship → 🔁 Repeat
 
 ### 💡 What Drives Me
 
-- 🧠 Building intelligent systems that solve real problems
-- 📚 Creating tools that make education accessible to everyone
-- 🔒 Writing code that respects user privacy by design
-- 🚀 Shipping projects that actually work in production
+- 🖐️ Building intuitive gesture-based interfaces
+- 🧠 Creating AI systems that understand human movements
+- 📚 Making technology accessible through natural interactions
+- 🔒 Writing privacy-first code that respects users
 
 ---
 
@@ -42,11 +42,11 @@ Daily Rhythm: ☕ Coffee → 💻 Code → 🐛 Debug → 🚀 Ship → 🔁 Rep
 <tr>
 <td width="50%">
 
-### 🔥 Learning
-- ⚡ Exploring RAG systems for intelligent retrieval
-- 🏗️ Mastering system design & scalable architectures
-- 🤖 Experimenting with LLMs & prompt engineering
-- 🔬 Diving into computer vision applications
+### 🔥 Building & Learning
+- 🖐️ Advanced gesture recognition systems
+- 🤖 Real-time computer vision applications
+- 🏗️ Scalable AI architecture design
+- 🔬 Exploring multimodal AI interactions
 
 </td>
 <td width="50%">
@@ -65,21 +65,21 @@ Daily Rhythm: ☕ Coffee → 💻 Code → 🐛 Debug → 🚀 Ship → 🔁 Rep
 
 <div align="center">
 
-### 💻 Backend & Core
+### 🤖 AI & Computer Vision
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### 💻 Backend & Core
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🤖 AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+### 🗄️ Data & Analytics
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### 🗄️ Databases & Storage
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### ⚙️ DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -98,17 +98,38 @@ Daily Rhythm: ☕ Coffee → 💻 Code → 🐛 Debug → 🚀 Ship → 🔁 Rep
 <tr>
 <td width="50%" valign="top">
 
+### 🖐️ [Ultimate Gesture Control](https://github.com/PyRaghaw/Ultimate-Gesture-Control)
+*Touchless Computer Control Revolution*
+
+Advanced AI-powered hand gesture recognition system that transforms hand movements into computer commands with 30+ intelligent gestures.
+
+### 🌟 Revolutionary Features:
+- **🎯 30+ Smart Gestures** - Mouse control, clicks, scrolling, volume, brightness, and system commands
+- **⚡ Real-time AI Tracking** - 60 FPS hand detection using Google's MediaPipe
+- **🎮 Multiple Modes** - Drawing, Gaming, Presentation, and Hologram modes
+- **🔮 3D Hologram Interface** - Interactive 3D object manipulation in air
+- **📊 Session Analytics** - Detailed gesture tracking and performance metrics
+- **🖼️ Air Drawing** - Draw in mid-air with real-time canvas projection
+
+**Tech:** `Python` `OpenCV` `MediaPipe` `PyAutoGUI` `NumPy`
+
+<a href="https://github.com/PyRaghaw/Ultimate-Gesture-Control">
+  <img src="https://img.shields.io/badge/Experience_the_Future-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
 ### 🎓 [ScholarConnect](https://github.com/PyRaghaw/Scholar-Connect)
 *Finding scholarships, simplified*
 
 A multilingual AI platform helping Indian students navigate scholarship opportunities with zero guesswork.
 
 ### 🌟 Highlights:
-- **📸 Smart OCR Document Scanning** - Automatically extract and process text from documents with high accuracy
-- **🤖 AI-Powered Eligibility Matching** - Intelligent algorithms that match students with perfect scholarship opportunities
-- **💬 Conversational Assistant** - Natural language interface for seamless user guidance and support
-- **🌏 7+ Indian Languages** - Inclusive platform supporting major regional languages for wider accessibility
-Breaking down barriers in education through multilingual AI assistance
+- **📸 Smart OCR Document Scanning** - Automatically extract and process text from documents
+- **🤖 AI-Powered Eligibility Matching** - Intelligent algorithms for perfect scholarship matching
+- **💬 Conversational Assistant** - Natural language interface for seamless guidance
+- **🌏 7+ Indian Languages** - Inclusive platform supporting regional languages
 
 **Tech:** `Python` `Flask` `OpenCV` `PostgreSQL` `RAG`
 
@@ -117,6 +138,8 @@ Breaking down barriers in education through multilingual AI assistance
 </a>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📅 [AI Timetable](https://github.com/PyRaghaw/AI-Timetable)
@@ -125,11 +148,9 @@ Breaking down barriers in education through multilingual AI assistance
 Intelligent scheduling that adapts to your learning patterns and optimizes study blocks for maximum productivity.
 
 ### 🌟 Highlights:
-- **🎯 AI-Optimized Schedules** - Creating personalized timetables using intelligent algorithms
-- **📊 Progress Tracking** - Monitoring your learning journey with detailed analytics
-- **⏰ Smart Time Allocation** - Automatically distributing study time based on priority and difficulty
-- **📈 Productivity Insights** - Providing actionable recommendations to enhance efficiency
-Transforming how students manage their time through data-driven optimization
+- **🎯 AI-Optimized Schedules** - Personalized timetables using intelligent algorithms
+- **📊 Progress Tracking** - Monitoring learning journey with detailed analytics
+- **⏰ Smart Time Allocation** - Automatic study time distribution based on priority
 
 **Tech:** `Python` `Flask` `Algorithms`
 
@@ -138,8 +159,6 @@ Transforming how students manage their time through data-driven optimization
 </a>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📧 [MailMind Pro](https://github.com/PyRaghaw/MailMind)
@@ -148,34 +167,16 @@ Transforming how students manage their time through data-driven optimization
 Privacy-first email assistant that helps you manage Gmail without compromising your data.
 
 ### 🌟 Privacy-First Features:
-- **🔐 Minimal OAuth Scopes** - Requesting only essential permissions for core functionality
-- **🏷️ Smart Categorization** - Automatically organizing content with intelligent tagging
-- **📝 Auto-Summarization** - Generating concise summaries while preserving key information
-- **🔒 Zero Data Storage** - Processing data in-memory without persistent storage
-
-Building trust through transparent, privacy-respecting design principles
+- **🔐 Minimal OAuth Scopes** - Essential permissions only
+- **🏷️ Smart Categorization** - Intelligent email organization
+- **📝 Auto-Summarization** - Concise summaries preserving key information
+- **🔒 Zero Data Storage** - In-memory processing only
 
 **Tech:** `Python` `Flask` `Gmail API` `OAuth2`
 
 <a href="https://github.com/PyRaghaw/MailMind">
   <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🚀 More Coming Soon...
-*Currently cooking something exciting*
-
-Working on new projects that push boundaries in AI, education, and privacy. Stay tuned!
-
-### 🚀 Areas of Exploration
-- **🔬 Computer Vision** - Developing systems that can interpret and understand visual data
-- **🎨 Generative AI** - Creating intelligent systems that can generate novel content and solutions
-- **🔐 Privacy Tech** - Building technologies that protect user data and ensure digital security
-- **📚 Ed-Tech Innovation** - Designing tools that transform and enhance learning experiences
-
-Pushing boundaries in emerging technologies to create meaningful impact
 
 </td>
 </tr>
@@ -185,15 +186,87 @@ Pushing boundaries in emerging technologies to create meaningful impact
 
 ---
 
+## 🖐️ Gesture Control Showcase
+
+<div align="center">
+
+### 🎮 Live Gesture Demonstrations
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**👆 Single Finger**  
+Cursor Movement
+
+</td>
+<td align="center" width="25%">
+
+**👌 Pinch Gesture**  
+Left Click
+
+</td>
+<td align="center" width="25%">
+
+**✌️ Peace Sign**  
+Right Click
+
+</td>
+<td align="center" width="25%">
+
+**✊ Fist**  
+Double Click
+
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+
+**🤟 Three Fingers**  
+Scroll & Screenshot
+
+</td>
+<td align="center" width="25%">
+
+**🖖 Four Fingers**  
+Volume & Brightness
+
+</td>
+<td align="center" width="25%">
+
+**✋ Five Fingers**  
+Play/Pause Media
+
+</td>
+<td align="center" width="25%">
+
+**🔮 Hologram Mode**  
+3D Object Control
+
+</td>
+</tr>
+</table>
+
+### 🎯 Real-World Applications
+- 🏥 **Healthcare** - Sterile environment control systems
+- 🎮 **Gaming** - Immersive motion-controlled experiences  
+- 📊 **Presentations** - Touchless slide navigation
+- 🏠 **Smart Homes** - Gesture-controlled automation
+- 🏭 **Industrial** - Hazardous environment interfaces
+
+</div>
+
+---
+
 <div align="center">
 
 ## 💭 Philosophy
 
-> *"Code is not just about solving problems—it's about creating possibilities."*
+> *"The future of interaction isn't keyboards and mice—it's the natural language of human gestures."*
 
-> *"Privacy isn't a feature, it's a fundamental right."*
+> *"Privacy isn't a feature, it's a fundamental right in the digital age."*
 
-> *"The best way to predict the future? Build it."*
+> *"Build interfaces that understand humans, not systems that humans need to understand."*
 
 </div>
 
@@ -208,31 +281,28 @@ Pushing boundaries in emerging technologies to create meaningful impact
 <td width="33%">
 
 ### 📚 Continuous Learning
-- **📖 Reading tech blogs** - Staying updated with the latest industry trends and insights
-- **🎥 Watching tutorials** - Learning new skills through hands-on video content
-- **⚡ Exploring new frameworks **- Experimenting with emerging technologies and tools
-- **🎓 Taking online courses** - Systematically building expertise through structured learning
+- **🖐️ Advanced Gesture Recognition** - Pushing boundaries in human-computer interaction
+- **🤖 Multimodal AI Systems** - Integrating vision, language, and gesture understanding
+- **🔬 Computer Vision Research** - Exploring cutting-edge visual intelligence techniques
+- **🏗️ System Architecture** - Designing scalable and efficient AI infrastructure
 
-Committed to lifelong learning and staying at the forefront of technology
 </td>
 <td width="33%">
 
 ### 🤝 Community Engagement
-- **🌟 Contributing to open-source** - Building and improving public projects for everyone
-- **🔧 Helping others debug** - Assisting fellow developers solve technical challenges
-- **👥 Mentoring peers** - Guiding and supporting others in their coding journey
-- **📚 Sharing knowledge** - Documenting learnings and creating educational content
-
-Growing together by lifting others up in the developer community
+- **🌟 Open Source Contributions** - Building public tools for gesture control enthusiasts
+- **🔧 Technical Mentoring** - Guiding developers in AI and computer vision
+- **📚 Knowledge Sharing** - Creating tutorials on gesture recognition technology
+- **👥 Collaborative Projects** - Working with teams on innovative AI solutions
 
 </td>
 <td width="33%">
 
-### 💡 Innovation
-- **💡 Experimenting with ideas** - Always exploring new concepts and innovative solutions
-- **🛠️ Building side projects** - Turning ideas into functional applications and tools
-- **🔒 Advocating for privacy** - Championing data protection and user rights in technology
-- **🤝 Promoting ethical AI** - Ensuring AI development aligns with human values and fairness
+### 💡 Innovation Focus
+- **🎯 Natural Interfaces** - Creating intuitive human-computer interactions
+- **🔒 Privacy-Preserving AI** - Developing ethical AI systems
+- **🚀 Real-time Systems** - Building high-performance gesture recognition
+- **🌍 Accessible Technology** - Making AI available to everyone
 
 </td>
 </tr>
@@ -257,11 +327,11 @@ Growing together by lifting others up in the developer community
 
 <div align="center">
 
-### I'm always excited to work on:
+### I'm passionate about:
 
-🎓 **Ed-tech solutions** | 🤖 **AI/ML applications** | 🔒 **Privacy-focused tools** | 🚀 **Open-source projects**
+🖐️ **Gesture Control Systems** | 🤖 **AI/Computer Vision** | 🎓 **Ed-Tech Solutions** | 🔒 **Privacy-First Tools**
 
-### 📬 Reach Out
+### 📬 Reach Out - Let's Build the Future Together
 
 <a href="mailto:sraghaw911@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -278,9 +348,9 @@ Growing together by lifting others up in the developer community
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Control%20the%20Future%20with%20Gestures!&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
 
-### Made with ❤️, Python, and endless curiosity
+### Crafted with ❤️, Python, and the power of gestures
 
 <img src="https://komarev.com/ghpvc/?username=PyRaghaw&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
 

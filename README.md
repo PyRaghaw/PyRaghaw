@@ -1,288 +1,213 @@
-<div align="center">
-
-# 👋 Hey, I'm Raghaw Shukla
-
-### 2nd Year CS Student | Building Cool Stuff with AI
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=650&height=100&lines=Learning+AI%2FML+%7C+Building+Projects;Computer+Vision+%7C+Web+Development;Turning+Ideas+into+Code" alt="Typing SVG" />
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sraghaw911@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghaw-shukla-a49727326/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PyRaghaw)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raghaw__shukla/)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&repeat=false&width=650&height=100&lines=AI+Alchemist+%7C+Visionary+Coder;Privacy+Guardian+%7C+Innovation+Architect;Turning+Ideas+into+Intelligent+Revolutions" alt="Typing SVG" />
+Email
+ LinkedIn
+ GitHub
+ Instagram
 
 </div>
+🌟 Who Am I? (The Epic Saga)
 
----
+<img align="right" alt="Coding Wizardry" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+🎓 2nd Year B.Tech Sorcerer | 🤖 AI/ML Conjurer | 🇮🇳 Indian Innovator Extraordinaire
 
-## 🚀 About Me
+I'm not just a coder; I'm a digital alchemist turning coffee-fueled dreams into reality. Passionate about crafting AI that doesn't just solve problems—it dances with them, respects privacy like a knight in shining armor, and makes the world a tad smarter (and funnier).
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+🔥 My Superpowers (What Makes Me Tick)
 
-🎓 **B.Tech CSE Student (2nd Year)** | 💻 **Python Enthusiast** | 🇮🇳 **India**
-
-I'm a student who loves building projects that actually work and solve real problems. Currently learning AI/ML and creating applications that make life easier.
-
-### 💡 What I'm Into
-
-- 🤖 Building AI/ML applications from scratch
-- 👁️ Computer vision and gesture recognition
-- 🌐 Full-stack web development
-- 📚 Ed-tech solutions for students
-- 🔧 Making complex tech simple and usable
-
+🧠 Brewing AI potions with real-world impact
+👁️ Conjuring computer vision spells for the masses
+📚 Enchanting ed-tech realms for accessible learning
+🔒 Championing privacy as the ultimate shield
+🚀 Launching code rockets into production orbit
 <br clear="right"/>
+🎯 My Current Quest (Level Up Mode)
 
----
+<table> <tr> <td width="50%">
+⚡ Skill Tree Expansion
 
-## 🎯 Currently
+🤖 Mastering Deep Learning dungeons
+🎯 Optimizing real-time AI for lightning speed
+🏗️ Scaling ML empires across clouds
+🔬 Weaving RAG systems and LLM enchantments
+⚡ Unleashing advanced computer vision sorcery
+</td> <td width="50%">
+📊 GitHub Chronicles
 
-<table>
-<tr>
-<td width="50%">
-
-### 📖 Learning
-
-- 🧠 Deep Learning & Neural Networks
-- ⚡ Real-time AI applications
-- 🏗️ Building scalable backends
-- 🔬 RAG systems & LLMs
-- 🎯 Advanced computer vision
-
-</td>
-<td width="50%">
-
-### 📊 GitHub Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PyRaghaw&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PyRaghaw&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/> </td> </tr> </table>
+🛠️ Arsenal of Awesomeness (Tech Stack)
 
 <div align="center">
+Languages & Frameworks (My Spellbook)
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+Python
+JavaScript
+Flask
+FastAPI
 
-### Frameworks & Tools
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+AI & ML (The Magic Ingredients)
 
-### Libraries I Use
-![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+TensorFlow
+MediaPipe
+OpenCV
+scikit-learn
+Pandas
 
-### Other Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+Databases & DevOps (The Vault & Forge)
+
+PostgreSQL
+SQLite
+Docker
+Git
 
 </div>
+🎨 Legendary Creations (Featured Projects)
 
----
+🦾 Gesture Control System
 
-## 🎨 My Projects
+The Ultimate Touchless Revolution: Control Your World with a Wave!
 
-### 🦾 [Gesture Control System](https://github.com/PyRaghaw/Gesture-Control-System)
-**Control your computer with hand gestures - no mouse needed!**
+Ditch the mouse and keyboard—command your computer like a Jedi with AI hand-tracking wizardry. This isn't just tech; it's a portal to seamless human-machine harmony.
 
-Built a real-time hand tracking system that lets you control your PC using just hand movements. Perfect for presentations, accessibility, or just showing off.
+✨ Epic Abilities:
 
-**What it does:**
-- 🎯 30+ gesture commands for navigation and control
-- ✋ Real-time hand tracking using MediaPipe
-- 🎨 Air drawing feature for creative stuff
-- 🎮 Gaming mode, presentation mode, and more
-- ⚡ Smooth 60 FPS performance
+🎯 Over 30 gesture commands for total domination
+👁️ Real-time hand sorcery via MediaPipe
+🎨 Air-drawing mode for artistic chaos
+🎮 Multi-mode mayhem: gaming, presenting, sketching
+⚡ 60 FPS fury for buttery-smooth action
+📊 Smart analytics to level up your gestures
+🔧 Tech Forge: Python • MediaPipe • OpenCV • Deep Learning • Computer Vision
 
-**Built with:** Python • MediaPipe • OpenCV • Computer Vision
+💡 World Impact: Empowering accessibility, healthcare, and smart homes—because everyone deserves magic.
 
-[![View Project](https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PyRaghaw/Gesture-Control-System)
-[![Stars](https://img.shields.io/github/stars/PyRaghaw/Gesture-Control-System?style=for-the-badge&logo=github)](https://github.com/PyRaghaw/Gesture-Control-System)
+View Project
+ Stars
 
----
+🎓 ScholarConnect
 
-### 🎓 [ScholarConnect](https://github.com/PyRaghaw/Scholar-Connect)
-**Find scholarships easily - AI helps you discover opportunities**
+The Scholarship Oracle: AI-Powered Treasure Hunt for Indian Dreamers
 
-Made a platform that helps students find scholarships they're eligible for using AI. Supports multiple Indian languages and makes the whole process super simple.
+A multilingual AI beast that hunts scholarships, breaks language barriers, and turns "no funds" into "full ride." Privacy-first, because your data deserves a fortress.
 
-**Features:**
-- 📸 Scan documents with OCR
-- 🤖 AI matches you with scholarships
-- 💬 Chat with AI for guidance
-- 🌏 Works in 7+ Indian languages
-- 📊 Get personalized recommendations
+✨ Game-Changing Features:
 
-**Built with:** Python • Flask • OpenCV • NLP • PostgreSQL
+📸 OCR scanner that reads documents like a psychic
+🤖 AI eligibility matcher—your personal scholarship cupid
+💬 Chatbot guide for wisdom on demand
+🌏 7+ Indian languages supported (Hindi, Tamil, you name it)
+🔒 Privacy vault with zero data leaks
+📊 Tailored recs to match your genius
+🔧 Tech Arsenal: Python • Flask • OpenCV • RAG • NLP • PostgreSQL
 
-[![View Project](https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PyRaghaw/Scholar-Connect)
+💡 Ripple Effect: Democratizing education across India—because knowledge should be free (or at least funded).
 
----
+View Project
 
-### 📅 [AI Timetable](https://github.com/PyRaghaw/AI-Timetable)
-**Smart study scheduler that learns your patterns**
+📅 AI Timetable
 
-Created an intelligent timetable generator that uses ML to optimize study schedules based on your habits and priorities.
+The Study Scheduler That Knows You Better Than Your Mom
 
-**Features:**
-- 🎯 AI-optimized study schedules
-- 📊 Track your progress and productivity
-- ⏰ Smart time allocation
-- 📈 Get insights on your study patterns
-- 🔄 Adapts to how you actually study
+Forget rigid timetables—this AI learns your habits, optimizes your day, and turns procrastination into productivity. It's like having a personal time wizard.
 
-**Built with:** Python • Flask • ML Algorithms
+✨ Mind-Blowing Features:
 
-[![View Project](https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PyRaghaw/AI-Timetable)
+🎯 AI-crafted schedules that adapt like a chameleon
+📊 Progress trackers with graphs that tell stories
+⏰ Priority-based time allocation (no more "I'll do it later")
+📈 Insights that boost your brainpower
+🔄 Learns from your patterns—gets smarter every day
+📱 Sleek UI for zero friction
+🔧 Tech Toolkit: Python • Flask • ML Algorithms • Data Analytics
 
----
+💡 Transformation: Helping students conquer academics with AI-fueled efficiency.
 
-### 📧 [MailMind](https://github.com/PyRaghaw/MailMind)
-**Smart Gmail assistant that respects your privacy**
+View Project
 
-Built an email manager that auto-categorizes and summarizes emails using AI, without storing any of your data.
+📧 MailMind
 
-**Features:**
-- 🏷️ Smart email categorization
-- 📝 AI-powered summaries
-- 🔐 Privacy-first (no data storage)
-- ⚡ Fast email management
-- 🛡️ Minimal permissions
+The Privacy-Obsessed Gmail Guru: Organize Without the Snooping
 
-**Built with:** Python • Flask • Gmail API • NLP
+Tame your inbox chaos with AI that summarizes, categorizes, and respects your secrets. Zero storage, maximum magic—because privacy is non-negotiable.
 
-[![View Project](https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PyRaghaw/MailMind)
+🔒 Privacy Fortress Features:
 
----
+🔐 Minimal permissions—only what it needs
+🏷️ ML auto-tags for inbox zen
+📝 AI summaries that cut the fluff
+🚫 In-memory processing—no data trails
+⚡ Lightning-fast email mastery
+🛡️ Built for trust, not tracking
+🔧 Tech Core: Python • Flask • Gmail API • OAuth2 • NLP
 
-## 🌱 When I'm Not Coding
+💡 Proof of Concept: AI can be powerful and ethical—changing the game one email at a time.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+View Project
 
-### 📚 Learning
-- Reading tech blogs and papers
-- Building random side projects
-- Experimenting with new frameworks
-- Taking online courses
-- Watching tech tutorials
-
-</td>
-<td width="50%" valign="top">
-
-### 🤝 Contributing
-- Open source contributions
-- Helping others debug code
-- Sharing what I learn
-- Active in dev communities
-- Writing about my projects
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Analytics
+💭 My Code of Honor (Philosophies That Guide Me)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PyRaghaw&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyRaghaw&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+"AI should be like a good magician: powerful, invisible, and never revealing its secrets."
+"Privacy isn't a feature—it's the foundation. Build on rock, not sand."
+"Code fast, fail faster, but always ship with soul."
 </div>
+🌱 Life Beyond the Keyboard (The Human Side)
+
+<table> <tr> <td width="33%" valign="top">
+📚 Eternal Student Mode
+
+📖 Devouring tech tomes and research scrolls
+🎥 Crafting projects that explode with ideas
+⚡ Experimenting with bleeding-edge tech
+🎓 Leveling up with online academies
+🔬 Chasing AI breakthroughs like a detective
+</td> <td width="33%" valign="top">
+🤝 Tribe Builder
+
+🌟 Fueling open-source revolutions
+🐛 Debugging nightmares for the greater good
+👥 Mentoring the next gen of wizards
+📝 Crafting technical tales for the masses
+💬 Sparking debates in dev arenas
+</td> <td width="33%" valign="top">
+💡 Innovation Maverick
+
+🚀 Launching side quests that redefine fun
+🔒 Advocating privacy in a data-hungry world
+🤖 Pushing ethical AI frontiers
+🌍 Tech for humanity's wildest dreams
+🎯 Solving puzzles that matter
+</td> </tr> </table>
+📊 GitHub Odyssey (Stats That Speak Volumes)
+
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PyRaghaw&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyRaghaw&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/> </div> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=PyRaghaw&theme=tokyo-night&hide_border=true&area=true" width="95%"/> </div>
+🎯 Developer Persona (In Code, Because Why Not?)
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PyRaghaw&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</div>
-
----
-
-## 👨‍💻 Quick Facts
-
-<div align="center">
-
-```python
+python
+26 lines
+Copy code
+Download code
+Click to expand
 class RaghawShukla:
-    def __init__(self):
-        self.status = "2nd Year CS Student"
-        self.location = "India 🇮🇳"
-        
-        self.currently_learning = [
-            "Deep Learning",
-            "Computer Vision", 
-            "Backend Development",
-            "System Design"
-        ]
-        
-        self.languages = ["Python", "JavaScript", "SQL"]
-        
-        self.interests = [
-            "AI/ML Projects",
-            "Web Development",
-            "Computer Vision",
-            "Building Cool Stuff"
-        ]
-    
-    def say_hi(self):
-        print("Thanks for checking out my profile!")
-```
-
+def __init__(self):
+...
 </div>
-
----
-
-## 🤝 Let's Connect!
+🤝 Join the Adventure (Let's Collaborate)
 
 <div align="center">
+💬 I'm on a Quest for:
 
-### 💬 Always up for:
+🤖 AI/ML Expeditions • 👁️ Computer Vision Journeys • 🎓 Ed-Tech Revolutions • 🔒 Privacy-Focused Artifacts • 🚀 Open-Source Crusades
 
-**💡 Project Collaborations** • **🤖 AI/ML Discussions** • **🎓 Learning Together** • **💻 Open Source** • **🔧 Building Cool Stuff**
-
-<br>
-
-<a href="mailto:sraghaw911@gmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://www.linkedin.com/in/raghaw-shukla-a49727326/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/PyRaghaw">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.instagram.com/raghaw__shukla/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
+<br> <a href="mailto:sraghaw911@gmail.com"> <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://www.linkedin.com/in/raghaw-shukla-a49727326/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://github.com/PyRaghaw"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="https://www.instagram.com/raghaw__shukla/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a>
 <br><br>
 
-**Feel free to reach out if you want to collaborate or just chat about tech!**
+💼 Ready for: Epic AI/ML challenges • Open-source alliances • Research expeditions • Deep-dive tech chats
 
 </div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
-
-### 🚀 *Learning, building, and shipping*
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Thanks%20for%20the%20Visit!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
+🚀 Crafting the future with AI, one epic commit at a time
 
 <img src="https://komarev.com/ghpvc/?username=PyRaghaw&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
-
-**Made with ❤️ and lots of coffee ☕**
-
+Forged with ❤️, Python, and a dash of chaos
 </div>

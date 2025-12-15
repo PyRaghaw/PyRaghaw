@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👨‍💻 Raghaw Shukla
+# 👋 Hey, I'm Raghaw Shukla
 
-### Building the future with AI, one commit at a time
+### 2nd Year CS Student | Building Cool Stuff with AI
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=650&height=100&lines=AI+Engineer+%7C+ML+Developer;Computer+Vision+%7C+Privacy+Advocate;Building+Intelligent+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=650&height=100&lines=Learning+AI%2FML+%7C+Building+Projects;Computer+Vision+%7C+Web+Development;Turning+Ideas+into+Code" alt="Typing SVG" />
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sraghaw911@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghaw-shukla-a49727326/)
@@ -19,35 +19,35 @@
 
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-🎓 **2nd Year B.Tech Student** | 🤖 **AI/ML Developer** | 🇮🇳 **India**
+🎓 **B.Tech CSE Student (2nd Year)** | 💻 **Python Enthusiast** | 🇮🇳 **India**
 
-I'm passionate about building intelligent systems that solve real-world problems while respecting user privacy. My work focuses on making AI accessible, practical, and ethical.
+I'm a student who loves building projects that actually work and solve real problems. Currently learning AI/ML and creating applications that make life easier.
 
-### 💡 What Drives Me
+### 💡 What I'm Into
 
-- 🧠 Creating AI/ML solutions with tangible impact
-- 👁️ Developing computer vision applications
-- 📚 Building accessible ed-tech platforms
-- 🔒 Advocating for privacy-first development
-- 🚀 Shipping production-ready code
+- 🤖 Building AI/ML applications from scratch
+- 👁️ Computer vision and gesture recognition
+- 🌐 Full-stack web development
+- 📚 Ed-tech solutions for students
+- 🔧 Making complex tech simple and usable
 
 <br clear="right"/>
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Currently
 
 <table>
 <tr>
 <td width="50%">
 
-### 🔥 Learning & Exploring
+### 📖 Learning
 
-- 🤖 Deep Learning architectures
-- 🎯 Real-time AI optimization
-- 🏗️ Scalable ML deployment
-- 🔬 RAG systems & LLM integration
-- ⚡ Advanced computer vision
+- 🧠 Deep Learning & Neural Networks
+- ⚡ Real-time AI applications
+- 🏗️ Building scalable backends
+- 🔬 RAG systems & LLMs
+- 🎯 Advanced computer vision
 
 </td>
 <td width="50%">
@@ -66,47 +66,48 @@ I'm passionate about building intelligent systems that solve real-world problems
 
 <div align="center">
 
-### Languages & Frameworks
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frameworks & Tools
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### AI & Machine Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### Libraries I Use
+![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### Databases & DevOps
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### Other Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## 🎨 Featured Projects
+## 🎨 My Projects
 
 ### 🦾 [Gesture Control System](https://github.com/PyRaghaw/Gesture-Control-System)
-**Revolutionary touchless computer control using AI-powered hand tracking**
+**Control your computer with hand gestures - no mouse needed!**
 
-Control your computer naturally with hand gestures - no mouse, no keyboard, just your hands. Built with advanced computer vision and deep learning for seamless human-computer interaction.
+Built a real-time hand tracking system that lets you control your PC using just hand movements. Perfect for presentations, accessibility, or just showing off.
 
-**✨ Key Features:**
-- 🎯 30+ gesture commands for complete system control
-- 👁️ Real-time hand tracking with MediaPipe ML
-- 🎨 Air drawing mode for creative expression
-- 🎮 Multiple modes: gaming, presentation, drawing
-- ⚡ 60 FPS performance for ultra-responsive interaction
-- 📊 Smart analytics and gesture optimization
+**What it does:**
+- 🎯 30+ gesture commands for navigation and control
+- ✋ Real-time hand tracking using MediaPipe
+- 🎨 Air drawing feature for creative stuff
+- 🎮 Gaming mode, presentation mode, and more
+- ⚡ Smooth 60 FPS performance
 
-**🔧 Tech:** Python • MediaPipe • OpenCV • Deep Learning • Computer Vision
-
-**💡 Impact:** Enabling touchless interaction for accessibility, healthcare, and smart environments
+**Built with:** Python • MediaPipe • OpenCV • Computer Vision
 
 [![View Project](https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PyRaghaw/Gesture-Control-System)
 [![Stars](https://img.shields.io/github/stars/PyRaghaw/Gesture-Control-System?style=for-the-badge&logo=github)](https://github.com/PyRaghaw/Gesture-Control-System)
@@ -114,114 +115,81 @@ Control your computer naturally with hand gestures - no mouse, no keyboard, just
 ---
 
 ### 🎓 [ScholarConnect](https://github.com/PyRaghaw/Scholar-Connect)
-**AI-powered scholarship discovery platform for Indian students**
+**Find scholarships easily - AI helps you discover opportunities**
 
-Intelligent multilingual platform that helps students find and apply for scholarships using cutting-edge AI and RAG technology, breaking language barriers in education.
+Made a platform that helps students find scholarships they're eligible for using AI. Supports multiple Indian languages and makes the whole process super simple.
 
-**✨ Highlights:**
-- 📸 Smart OCR scanner for automated document processing
-- 🤖 AI-powered eligibility matching
-- 💬 Conversational AI assistant for guidance
-- 🌏 Support for 7+ Indian languages
-- 🔒 Privacy-first design with secure data handling
-- 📊 Personalized scholarship recommendations
+**Features:**
+- 📸 Scan documents with OCR
+- 🤖 AI matches you with scholarships
+- 💬 Chat with AI for guidance
+- 🌏 Works in 7+ Indian languages
+- 📊 Get personalized recommendations
 
-**🔧 Tech:** Python • Flask • OpenCV • RAG • NLP • PostgreSQL
-
-**💡 Impact:** Democratizing access to educational opportunities across India
+**Built with:** Python • Flask • OpenCV • NLP • PostgreSQL
 
 [![View Project](https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PyRaghaw/Scholar-Connect)
 
 ---
 
 ### 📅 [AI Timetable](https://github.com/PyRaghaw/AI-Timetable)
-**Intelligent study scheduling that adapts to your learning patterns**
+**Smart study scheduler that learns your patterns**
 
-Smart scheduling system that uses machine learning to optimize your study blocks based on your habits, priorities, and productivity patterns.
+Created an intelligent timetable generator that uses ML to optimize study schedules based on your habits and priorities.
 
-**✨ Features:**
-- 🎯 AI-optimized schedules with personalized time allocation
-- 📊 Comprehensive progress analytics and tracking
-- ⏰ Automatic priority-based time distribution
-- 📈 Actionable productivity insights
-- 🔄 Adaptive learning from your study patterns
-- 📱 Clean, intuitive interface
+**Features:**
+- 🎯 AI-optimized study schedules
+- 📊 Track your progress and productivity
+- ⏰ Smart time allocation
+- 📈 Get insights on your study patterns
+- 🔄 Adapts to how you actually study
 
-**🔧 Tech:** Python • Flask • ML Algorithms • Data Analytics
-
-**💡 Impact:** Helping students maximize productivity and achieve academic goals
+**Built with:** Python • Flask • ML Algorithms
 
 [![View Project](https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PyRaghaw/AI-Timetable)
 
 ---
 
 ### 📧 [MailMind](https://github.com/PyRaghaw/MailMind)
-**Privacy-first intelligent Gmail assistant**
+**Smart Gmail assistant that respects your privacy**
 
-Powerful email management that respects your privacy - intelligent organization and summarization without storing your data.
+Built an email manager that auto-categorizes and summarizes emails using AI, without storing any of your data.
 
-**🔒 Privacy-First Features:**
-- 🔐 Minimal OAuth scopes - only essential permissions
-- 🏷️ Smart auto-categorization with ML
-- 📝 AI-powered email summarization
-- 🚫 Zero data storage - all processing in-memory
-- ⚡ Fast, efficient email management
-- 🛡️ Privacy-by-design architecture
+**Features:**
+- 🏷️ Smart email categorization
+- 📝 AI-powered summaries
+- 🔐 Privacy-first (no data storage)
+- ⚡ Fast email management
+- 🛡️ Minimal permissions
 
-**🔧 Tech:** Python • Flask • Gmail API • OAuth2 • NLP
-
-**💡 Impact:** Proving that AI can be powerful and privacy-respecting simultaneously
+**Built with:** Python • Flask • Gmail API • NLP
 
 [![View Project](https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PyRaghaw/MailMind)
 
 ---
 
-## 💭 Philosophy
-
-<div align="center">
-
-> *"The best AI is invisible—it just works."*
-
-> *"Privacy isn't optional. It's fundamental."*
-
-> *"Ship fast, iterate faster, but never compromise on quality."*
-
-</div>
-
----
-
-## 🌱 Beyond the Code
+## 🌱 When I'm Not Coding
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 📚 Continuous Learning
-- 📖 Reading tech blogs & research papers
-- 🎥 Building hands-on projects
-- ⚡ Exploring cutting-edge frameworks
-- 🎓 Taking specialized online courses
-- 🔬 Staying current with AI research
-
-</td>
-<td width="33%" valign="top">
-
-### 🤝 Community
-- 🌟 Contributing to open source
-- 🐛 Helping debug complex problems
-- 👥 Mentoring fellow developers
-- 📝 Writing technical content
-- 💬 Active in dev communities
+### 📚 Learning
+- Reading tech blogs and papers
+- Building random side projects
+- Experimenting with new frameworks
+- Taking online courses
+- Watching tech tutorials
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 💡 Innovation
-- 🚀 Building side projects
-- 🔒 Advocating for privacy
-- 🤖 Promoting ethical AI
-- 🌍 Tech for social good
-- 🎯 Solving real problems
+### 🤝 Contributing
+- Open source contributions
+- Helping others debug code
+- Sharing what I learn
+- Active in dev communities
+- Writing about my projects
 
 </td>
 </tr>
@@ -242,50 +210,47 @@ Powerful email management that respects your privacy - intelligent organization 
 
 ---
 
-## 🎯 About Me (Developer View)
+## 👨‍💻 Quick Facts
 
 <div align="center">
 
 ```python
 class RaghawShukla:
     def __init__(self):
-        self.role = "AI/ML Developer"
+        self.status = "2nd Year CS Student"
         self.location = "India 🇮🇳"
-        self.education = "B.Tech Computer Science - 2nd Year"
         
-        self.expertise = {
-            "ai_ml": ["Deep Learning", "Computer Vision", "NLP", "RAG Systems"],
-            "frameworks": ["MediaPipe", "TensorFlow", "OpenCV", "scikit-learn"],
-            "backend": ["Python", "Flask", "FastAPI", "REST APIs"],
-            "databases": ["PostgreSQL", "SQLite", "Redis"],
-            "tools": ["Git", "Docker", "GitHub Actions"]
-        }
+        self.currently_learning = [
+            "Deep Learning",
+            "Computer Vision", 
+            "Backend Development",
+            "System Design"
+        ]
         
-        self.focus_areas = [
-            "Real-time AI Systems",
-            "Privacy-Preserving ML",
-            "Accessible Ed-Tech",
-            "Computer Vision Applications"
+        self.languages = ["Python", "JavaScript", "SQL"]
+        
+        self.interests = [
+            "AI/ML Projects",
+            "Web Development",
+            "Computer Vision",
+            "Building Cool Stuff"
         ]
     
-    def current_mission(self):
-        return "Building AI that's powerful, accessible, and respects privacy"
-    
-    def always_learning(self):
-        return True
+    def say_hi(self):
+        print("Thanks for checking out my profile!")
 ```
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's Connect!
 
 <div align="center">
 
-### 💬 I'm interested in collaborating on:
+### 💬 Always up for:
 
-**🤖 AI/ML Projects** • **👁️ Computer Vision** • **🎓 Ed-tech Solutions** • **🔒 Privacy-focused Tools** • **🚀 Open Source**
+**💡 Project Collaborations** • **🤖 AI/ML Discussions** • **🎓 Learning Together** • **💻 Open Source** • **🔧 Building Cool Stuff**
 
 <br>
 
@@ -304,8 +269,7 @@ class RaghawShukla:
 
 <br><br>
 
-**💼 Open to:**
-Interesting AI/ML projects • Open-source collaborations • Research opportunities • Technical discussions
+**Feel free to reach out if you want to collaborate or just chat about tech!**
 
 </div>
 
@@ -313,12 +277,12 @@ Interesting AI/ML projects • Open-source collaborations • Research opportuni
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
 
-### 🚀 *Building the future, one intelligent system at a time*
+### 🚀 *Learning, building, and shipping*
 
 <img src="https://komarev.com/ghpvc/?username=PyRaghaw&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
 
-**Made with ❤️, Python, and endless curiosity**
+**Made with ❤️ and lots of coffee ☕**
 
 </div>

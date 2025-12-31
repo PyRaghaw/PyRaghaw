@@ -1,60 +1,56 @@
 <div align="center">
 
-# 📂 pyraghaw_os / kernel / init.sh
-**Architecting Local Intelligence • Rejecting the Abstraction Layer**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=70&lines=RAGHAW_SHUKLA.init(System.BOOT);ESTABLISHING_NEURAL_LINK...;ACCESS_GRANTED:_ARCHITECT_MODE_ENABLED" alt="Typing SVG" />
 
-[![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-00FF41?style=flat-square&logo=statuspage&logoColor=00FF41)](https://github.com/PyRaghaw)
-[![Location](https://img.shields.io/badge/BASE-INDIA-white?style=flat-square&logo=googlemaps&logoColor=white)](https://github.com/PyRaghaw)
-[![Uptime](https://img.shields.io/badge/UPTIME-2ND_YEAR_CS-blue?style=flat-square)](https://github.com/PyRaghaw)
+<br>
 
----
-
-### "In a world of rented APIs, I build owned logic."
-*Building creations that don’t need permission to exist. If the network fades, my work keeps breathing.*
-
-[ ⚡ ] [Project Portfolio](https://raghawshukla.dev) &nbsp; | &nbsp; [ 🛠️ ] [Operational Stack](#-operational-stack) &nbsp; | &nbsp; [ 📡 ] [Signal Uplink](#-signal-uplink)
-
----
+![Status](https://img.shields.io/badge/SYSTEM-ONLINE-000000?style=for-the-badge&logo=prometheus&logoColor=white&border=white)
+![Role](https://img.shields.io/badge/ROLE-ENGINEER-000000?style=for-the-badge&logo=robot&logoColor=white&border=white)
+![Focus](https://img.shields.io/badge/FOCUS-COMPUTER_VISION-000000?style=for-the-badge&logo=opencv&logoColor=white&border=white)
 
 </div>
 
-## 🧠 SYSTEM_LOG: WHO_AM_I
-```python
->>> identity.fetch()
-{
-    "name": "Raghaw Shukla",
-    "role": "Digital Architect / AI Engine Builder",
-    "focus": ["Real-time Computer Vision", "Offline-First ML", "Edge Intelligence"],
-    "philosophy": "Abstraction is a luxury; performance is a necessity.",
-    "status": "Escaped 'Tutorial Purgatory'. Now shipping production-grade logic."
-}
-🛠️ OPERATIONAL STACK
-The tools I use to bend silicon to my will.
+<br>
 
-LAYER	TECHNOLOGIES
-Core Engines	Python, C++ (Learning), FastAPI, Flask
-Neural/Vision	YOLOv8, MediaPipe, OpenCV, TensorFlow, spaCy
-Data Fort	PostgreSQL, Supabase, Redis, VectorDB
-Deployment	Docker, GitHub Actions, Linux (Kernel Mastery)
-💎 SELECTED_OPERATIONS (Top Projects)
-🦾 Gesture Control OS
-
-The Problem: Keyboards are the bottleneck. The Fix: A CV-driven interface with 30+ gesture commands. 60 FPS real-time tracking with <50ms latency. No cloud, just raw local processing.
-
-📧 MailMind
-
-The Problem: AI privacy is a myth. The Fix: Privacy-first email assistant. In-memory processing only. Zero server-side storage. Intelligence without intrusion.
-
-📊 TELEMETRY (GitHub Activity)
-<div align="center"> <img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DPyRaghaw%26theme%3Ddracula%26hide_border%3Dtrue%26area%3Dtrue%26bg_color%3D00000000%26color%3D00FF41%26line%3D00FF41%26point%3DFFFFFF" width="900"> </div>
-
-📡 SIGNAL UPLINK
-Open for collaborations on high-performance ML or system-level engineering.
-
-Bash
-$ssh sraghaw911@gmail.com$ curl -X GET "[https://linkedin.com/in/raghaw-shukla](https://linkedin.com/in/raghaw-shukla)"
-$ git checkout @PyRaghaw
 <div align="center">
+  
+> *"I don’t rent intelligence; I engineer it. Merging **Deep Learning** with **Full-Stack Architecture**, I build self-sufficient systems that run on the edge—delivering raw performance without waiting for a server."*
+
+</div>
+
+<br>
+
+### 📡 [ SYSTEM_TELEMETRY ]
+
+```yaml
+USER_ID      : Raghaw Shukla
+AFFILIATION  : Academy of Technology (2nd Year B.Tech CSE)
+LOCATION     : Kolkata, IN [22.5726° N, 88.3639° E]
+ARCHETYPE    : Full-Stack ML Engineer
+CORE_VALUES  : [ "Privacy", "Offline-First", "Sub-100ms Latency" ]
+CURRENT_OBJ  : Architecting decentralized intelligence.
+🛠️ [ ARSENAL_LOG ]
+
+DOMAIN	TECHNOLOGIES
+🧠 CORTEX (AI/ML)	YOLOv8 MediaPipe OpenCV TensorFlow PyTorch
+⚙️ ENGINE (Backend)	FastAPI Flask Python PostgreSQL Redis
+🖥️ INTERFACE (Web)	HTML/CSS JavaScript React Tailwind
+⚓ DOCK (DevOps)	Docker Git Linux Kernel Bash
+📂 [ DEPLOYED_MODULES ]
+
+PROJECT_ID	TYPE	STATUS	DESCRIPTION
+Gesture_OS	VISION	🟢 ACTIVE	The Keyboard Killer. A CV-driven interface with 30+ gesture commands. 60 FPS real-time tracking with <50ms latency. No cloud, just raw local processing.
+MailMind	PRIVACY	🟡 BETA	Privacy-First Assistant. In-memory email processing. Zero server-side storage. Intelligence without intrusion.
+Scholar_Net	PLATFORM	🟢 LIVE	OCR-Powered Discovery. AI pipeline to match students with funding. Bridging the gap between talent and resources using Tesseract & NLP.
+📊 [ ACTIVITY_GRAPH ]
+
+<div align="center"> <br> <img src="https://github-readme-activity-graph.vercel.app/graph?username=PyRaghaw&theme=react-dark&hide_border=true&area=false&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF" width="100%"> </div>
+🔌 [ CONNECT_UPLINK ]
+
+<div align="center"> <a href="https://linkedin.com/in/raghaw-shukla-a49727326/"> <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-000000?style=for-the-badge&logo=linkedin&logoColor=white&border=white" /> </a> <a href="mailto:sraghaw911@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-TRANSMIT-000000?style=for-the-badge&logo=gmail&logoColor=white&border=white" /> </a> <a href="https://github.com/PyRaghaw"> <img src="https://img.shields.io/badge/GITHUB-SOURCE-000000?style=for-the-badge&logo=github&logoColor=white&border=white" /> </a>
 
 
-<sub>LOCAL_LOGIC: ENABLED | Made with Spite & Caffeine | © 2025</sub> </div>
+
+System.exit(0); // Code. Ship. Repeat.
+
+</div> ```

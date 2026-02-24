@@ -52,15 +52,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PyRaghaw&theme=radical&hide_border=false&ring=3b82f6&fire=8b5cf6" width="48%" />
 </p>
 
----
-
-### 🏆 Certifications
-* [cite_start]📜 **Machine Learning with Python** (Coursera/IBM) [cite: 28]
-* [cite_start]📜 **Python for Data Science & AI** (Coursera) [cite: 30]
-* [cite_start]📜 **Python & Flask Framework Complete** (Udemy) [cite: 32]
-
----
-
 <p align="center">
   <b><a href="https://raghawshukla.xyz">Check out my Full Portfolio →</a></b><br>
   <i>"Privacy by Design | Edge AI Optimization | Sovereign Intelligence"</i>

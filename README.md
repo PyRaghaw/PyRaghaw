@@ -1,5 +1,5 @@
 
-# 🚀 RAGHAW SHUKLA
+# RAGHAW SHUKLA
 ### An Engineer by Discipline. An Explorer by Nature.
 
 <p align="center">

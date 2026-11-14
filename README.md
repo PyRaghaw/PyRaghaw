@@ -1,7 +1,7 @@
 <div align="center">
 
-# ⚡ RAGHAW SHUKLA
-### *AI/ML Engineer · Autonomous Systems · Full-Stack Architect*
+<!-- Futuristic Top Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B14,50:1E1E38,100:38BDF8&height=220&section=header&text=RAGHAW%20SHUKLA&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%C2%B7%20Autonomous%20Systems%20%C2%B7%20Full-Stack%20Architect&descFontSize=18&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
 
 <p align="center">
   <a href="https://raghawshukla.xyz">
@@ -15,7 +15,7 @@
   </a>
 </p>
 
-<!-- Dynamic Typing Header -->
+<!-- Dynamic Typing Banner -->
 <a href="https://raghawshukla.xyz">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Engineer;Autonomous+Agents+%26+Intelligent+RAG+Systems;Computer+Vision+%26+Real-Time+Edge+Intelligence;Mobile+%26+Full-Stack+Architectural+Engineering;Building+the+Engine.+Not+Renting+Illusion." alt="Typing SVG" />
 </a>
@@ -24,11 +24,16 @@
   <img src="https://komarev.com/ghpvc/?username=PyRaghaw&style=flat-square&color=38BDF8&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
+<!-- Glowing Neon Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="24px" />
+
 </div>
 
----
-
 ### 🚀 Executive Dossier
+
+<img align="right" alt="Coding Terminal" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+### Hey there, I'm Raghaw! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 > *"If your core product relies on 15 paid APIs, you didn't build software — you rented an illusion. I build the engine."*
 
@@ -39,9 +44,15 @@ I am a Computer Science engineer passionate about building systems from first pr
 - 📱 **Cross-Platform & Backends**: End-to-end engineering with Flutter, React Native, FastAPI, Node.js, and PostgreSQL.
 - ⚡ **First-Principles Craft**: High craftsmanship, privacy-first offline compute, and zero bloat.
 
----
+<br clear="both"/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="24px" />
+</div>
 
 ### 🛠️ Tech Arsenal & Ecosystem
+
+<img align="right" alt="Lofi Dev Setup" width="320" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
 #### 🧠 Artificial Intelligence & Machine Learning
 <p>
@@ -79,7 +90,11 @@ I am a Computer Science engineer passionate about building systems from first pr
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
----
+<br clear="both"/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="24px" />
+</div>
 
 ### 💻 Featured Engineering Projects
 
@@ -92,7 +107,9 @@ I am a Computer Science engineer passionate about building systems from first pr
 | **🛍️ Vyom / VyomShop** | Hyperlocal Commerce Engine | Modern neo-brutalist merchant dashboard, real-time inventory tracking, and localized marketplace architecture. | [Repository](https://github.com/PyRaghaw/VyomShop-Internal) |
 | **⚡ Enterprise RAG System** | Retrieval-Augmented Generation | Hybrid dense-sparse retrieval system with contextual vector re-ranking for complex technical knowledgebases. | [Repository](https://github.com/PyRaghaw/rag_system) |
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="24px" />
+</div>
 
 ### 📊 Git Telemetry & Activity Metrics
 
@@ -101,7 +118,9 @@ I am a Computer Science engineer passionate about building systems from first pr
   <img height="175" src="https://streak-stats.demolab.com?user=PyRaghaw&theme=dark&background=080B14&border=080B14&stroke=38bdf8&ring=38bdf8&fire=818cf8&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b" alt="PyRaghaw GitHub Streak" />
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="24px" />
+</div>
 
 ### 💬 Connect & Collaborate
 
@@ -120,4 +139,9 @@ $ curl -s https://raghawshukla.xyz/status
     <a href="mailto:sraghaw911@gmail.com"><b>Get in Touch</b></a>
   </p>
   <sub>Designed with precision. Engineered for performance. — Raghaw Shukla</sub>
+  
+  <br/><br/>
+  
+  <!-- Sleek Waving Footer Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B14,50:1E1E38,100:38BDF8&height=120&section=footer" width="100%" alt="Footer Banner" />
 </div>

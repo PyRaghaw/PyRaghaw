@@ -100,6 +100,7 @@ I am a Computer Science engineer passionate about building systems from first pr
 
 | Project | Domain | Architecture & Tech | Links |
 | :--- | :--- | :--- | :--- |
+| **🧭 IssuePilot** | AI Open Source Intelligence SaaS | Production multi-tenant platform discovering real GitHub issues, 12-point Gemini deconstructions, and step-by-step contribution roadmaps. | [Repository](https://github.com/PyRaghaw/issue-finder) |
 | **🔍 ScholarConnect** | AI Search & Semantic Matching | Intelligent scholarship discovery engine with OCR document ingestion, eligibility filtering, and semantic ranking. | [Repository](https://github.com/PyRaghaw/Scholar-Connect) |
 | **🛡️ MailMind** | Privacy NLP & Local Intelligence | Zero-leakage local email summarization and prioritization engine running on local language models. | [Repository](https://github.com/PyRaghaw/MailMind) |
 | **🖐️ GestureOS** | Vision IO & Spatial Interface | Real-time touchless cursor navigation and virtual mouse control using hand landmark tracking. | [Repository](https://github.com/PyRaghaw/Gesture-Control-System) |
@@ -114,8 +115,20 @@ I am a Computer Science engineer passionate about building systems from first pr
 ### 📊 Git Telemetry & Activity Metrics
 
 <div align="center">
-  <img height="175" src="https://github-stats.vercel.app/api?username=PyRaghaw&show_icons=true&title_color=38bdf8&icon_color=818cf8&text_color=e2e8f0&bg_color=080B14&hide_border=true" alt="PyRaghaw Github Stats" />
-  <img height="175" src="https://streak-stats.demolab.com?user=PyRaghaw&theme=dark&background=080B14&border=080B14&stroke=38bdf8&ring=38bdf8&fire=818cf8&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b" alt="PyRaghaw GitHub Streak" />
+  <a href="https://github.com/PyRaghaw">
+    <img height="195" src="https://streak-stats.demolab.com?user=PyRaghaw&theme=dark&background=080B14&border=1E1E38&stroke=1E1E38&ring=38BDF8&fire=38BDF8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=38BDF8&sideLabels=818CF8&dates=94A3B8&border_radius=12" alt="PyRaghaw GitHub Streak" />
+  </a>
+  <a href="https://github.com/PyRaghaw">
+    <img height="195" src="https://github-readme-stats-fast.vercel.app/api?username=PyRaghaw&show_icons=true&title_color=38BDF8&icon_color=818CF8&text_color=E2E8F0&bg_color=080B14&border_color=1E1E38&border_radius=12" alt="PyRaghaw GitHub Stats" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/PyRaghaw">
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=PyRaghaw&bg_color=080B14&color=38BDF8&line=818CF8&point=38BDF8&area=true&hide_border=true&radius=12" alt="PyRaghaw Contribution Waveform" />
+  </a>
 </div>
 
 <div align="center">
